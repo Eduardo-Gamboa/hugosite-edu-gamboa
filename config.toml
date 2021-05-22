@@ -5,14 +5,14 @@ paginate = 5
 
 [params]
   contentTypeName = "post"
-  themeColor = "orange"
-  showMenuItems = 2
-  fullWidthTheme = false
-  centerTheme = false
+  themeColor = "red"
+  showMenuItems = 5
+  fullWidthTheme = true
+  centerTheme = true
 
 [languages]
   [languages.en]
-    title = "Terminal"
+    title = "Terminal - By Eduardo Gamboa"
     subtitle = "A simple, retro theme for Hugo"
     keywords = ""
     copyright = ""
@@ -21,8 +21,8 @@ paginate = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
-      logoHomeLink = "/"
+      logoText = "Terminal - Eduardo Gamboa 9A"
+      logoHomeLink = "#"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
