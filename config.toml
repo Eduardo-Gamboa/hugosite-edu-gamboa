@@ -1,5 +1,4 @@
 baseurl = "https://eduardo-gamboa.github.io/hugosite-edu-gamboa/"
-baseurl = "https://localhost:1323/gamboac.io/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
