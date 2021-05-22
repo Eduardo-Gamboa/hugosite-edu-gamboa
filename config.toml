@@ -1,4 +1,4 @@
-baseurl = "https://eduardo-gamboa.github.io/hugosite-edu-gamboa/"
+baseurl = "eduardo-gamboa.github.io/hugosite-edu-gamboa/hola-gamboa"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
