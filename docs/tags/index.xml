@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Terminal - By Eduardo Gamboa</title>
-    <link>eduardo-gamboa.github.io/hugosite-edu-gamboa/tags/</link>
+    <link>https://eduardo-gamboa.github.io/hugosite-edu-gamboa/tags/</link>
     <description>Recent content in Tags on Terminal - By Eduardo Gamboa</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="eduardo-gamboa.github.io/hugosite-edu-gamboa/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://eduardo-gamboa.github.io/hugosite-edu-gamboa/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
